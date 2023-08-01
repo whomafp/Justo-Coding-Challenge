@@ -33,10 +33,9 @@ Gumble was built the following desing
 
 
 ## Screenshots
-(https://raw.github.com/ryanmaxwell/iArrived/master/Screenshots/Settings.png)
-![App Screenshot](https://github.com/whomafp/Justo-Coding-Challenge/master/Screenshots/main.png)
-![App Screenshot](https://github.com/whomafp/Justo-Coding-Challenge/master/Screenshots/Screenshots/featured.png)
-![App Screenshot](https://github.com/whomafp/Justo-Coding-Challenge/master/Screenshots/Screenshots/preview.png)
+![App Screenshot](https://github.com/whomafp/Justo-Coding-Challenge/master/Justo-Coding-Challenge/Screenshots/main.png)
+![App Screenshot](https://github.com/whomafp/Justo-Coding-Challenge/master/Justo-Coding-Challenge/Screenshots/Screenshots/featured.png)
+![App Screenshot](https://github.com/whomafp/Justo-Coding-Challenge/master/Justo-Coding-Challenge/Screenshots/Screenshots/preview.png)
 
 
 ## Authors
